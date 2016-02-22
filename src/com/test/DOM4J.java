@@ -14,7 +14,7 @@ import org.dom4j.io.SAXReader;
 import org.dom4j.io.XMLWriter;
 
 /*
-Dom4j 生成XML文档与解析XML文档  
+Dom4j 生成XML文档与解析XML文档//
 */
 public class DOM4J {
 
